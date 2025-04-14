@@ -82,4 +82,4 @@ if (x % 7 == 0):
 else:
     y =("Not a multiple of 7")
 
-print("The NUmber is:", y)
+print("The NUmber is:", y)]
